@@ -1,0 +1,6 @@
+{
+  "name": "MeasureMate AR",
+  "description": "Smart AR camera measuring tool for length, height, or area with secure offline project history and polished Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
